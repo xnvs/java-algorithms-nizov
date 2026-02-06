@@ -1,0 +1,9 @@
+body {
+  background: #f0f0f0 !important; /* Светло-серый фон */
+  color: #333333 !important; /* Убедимся, что текст достаточно темный */
+}
+
+.wrapper {
+  background: #ffffff !important; /* Фон для основного контента (белый) */
+  border: 1px solid #cccccc !important;
+}
