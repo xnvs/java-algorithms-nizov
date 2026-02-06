@@ -11,7 +11,7 @@
     readthis@inbox.ru
     @xPushNotification
 
-[Книга Алгоритмы на Java. Современный подход. Скачать PDF](Java_Algorithms_Modern_Approach_Nizov.pdf)
+[Книга Алгоритмы на Java.Современный подход. Низов. Скачать PDF](Java_Algorithms_Modern_Approach_Nizov.pdf)
 
 Оглавление
 ==========
