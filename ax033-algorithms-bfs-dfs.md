@@ -1400,10 +1400,12 @@ public class x01_BFS_TheoryMaze {
 
   // это по сути стрелки для направлений (→ ↓ ← ↑)
   // лабиринт то у нас 2х мерный
-  private static final int[][] DIRECTIONS = {{0,1},
-                                             {1,0},
-                                             {0,-1},
-                                             {-1,0}};
+  private static final int[][] DIRECTIONS = {
+     {0,1},
+     {1,0},
+     {0,-1},
+     {-1,0}
+  };
 
   // результат с массивами стейтов:
   //
