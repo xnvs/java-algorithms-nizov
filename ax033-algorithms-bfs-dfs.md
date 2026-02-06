@@ -1694,10 +1694,12 @@ import java.util.*;
 
 public class x02_DFS_TheoryMaze {
 
-  private static final int[][] DIRECTIONS = {{0, 1},
-                                             {1, 0},
-                                             {0,-1},
-                                             {-1,0}};
+  private static final int[][] DIRECTIONS = {
+     {0, 1},
+     {1, 0},
+     {0,-1},
+     {-1,0}
+  };
 
   static public boolean pathExists(
       char[][] maze,
