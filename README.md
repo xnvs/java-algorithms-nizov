@@ -87,84 +87,84 @@
 ---
 *   [Решебник. Framework](ax046-solutions-framework.md)
 
-#### Wording:
+##### Wording:
 *   [Решебник. MonotonicStack_DailyTemperatures](ax047-solutions-monotonic-stack-daily-temperatures.md)
 *   [Решебник. OverlappingIntervals_NonOverlappingIntervals](ax048-solutions-overlapping-non-overlapping-intervals.md)
 
-#### Traversing:
+##### Traversing:
 *   [Решебник. Путешествия по деревьям](ax049-solutions-tree-traversals.md)
 *   [Решебник. Путешествия по матрицам](ax050-solutions-matrix-traversals.md)
 
-#### Backtracking:
+##### Backtracking:
 *   [Решебник. Permutations](ax051-solutions-backtracking-permutations.md)
 *   [Решебник. NQueens](ax052-solutions-backtracking-nqueens.md)
 
-#### BinaryTreeTraversal:
+##### BinaryTreeTraversal:
 *   [Решебник. BinaryTreeLevelOrderTraversal](ax053-solutions-tree-level-order-traversal.md)
 *   [Решебник. BinaryTreeMaximumPathSum](ax054-solutions-tree-max-path-sum.md)
 *   [Решебник. BinaryTreePaths](ax055-solutions-binary-tree-paths.md)
 *   [Решебник. KthSmallestElementInBST](ax056-solutions-kth-smallest-bst.md)
 
-#### BreadthFirstSearch:
+##### BreadthFirstSearch:
 *   [Решебник. RottingOranges](ax057-solutions-bfs-rotting-oranges.md)
 *   [Решебник. WordLadder](ax058-solutions-bfs-word-ladder.md)
 
-#### DepthFirstSearch:
+##### DepthFirstSearch:
 *   [Решебник. CloneGraph](ax059-solutions-dfs-clone-graph.md)
 *   [Решебник. CourseSchedule](ax060-solutions-dfs-course-schedule.md)
 *   [Решебник. PathSum](ax061-solutions-dfs-path-sum.md)
 
-#### DynamicProgramming:
+##### DynamicProgramming:
 *   [Решебник. ClimbingStairs](ax062-solutions-dp-climbing-stairs.md)
 *   [Решебник. CoinChange](ax063-solutions-dp-coin-change.md)
 *   [Решебник. LongestIncreasingSubsequence](ax064-solutions-dp-longest-increasing-subsequence.md)
 *   [Решебник. LongestCommonSequence](ax065-solutions-dp-longest-common-subsequence.md)
 *   [Решебник. PartitionEqualSubsetSum](ax066-solutions-dp-partition-equal-subset-sum.md)
 
-#### FastAndSlowPointers:
+##### FastAndSlowPointers:
 *   [Решебник. FindTheDuplicateNumber](ax067-solutions-fast-slow-pointers-duplicate-number.md)
 *   [Решебник. HappyNumber](ax068-solutions-fast-slow-pointers-happy-number.md)
 *   [Решебник. LinkedListCycle](ax069-solutions-fast-slow-pointers-linked-list-cycle.md)
 
-#### LinkedListReversal:
+##### LinkedListReversal:
 *   [Решебник. ReverseLinkedListA](ax070-solutions-linked-list-reversal.md)
 *   [Решебник. ReverseLinkedListB](ax071-solutions-reverse-linked-list.md)
 *   [Решебник. SwapNodesInPairs](ax072-solutions-linked-list-swap-nodes-pairs.md)
 
-#### MatrixTraversal:
+##### MatrixTraversal:
 *   [Решебник. FloodFill](ax073-solutions-matrix-flood-fill.md)
 *   [Решебник. NumberOfIslands](ax074-solutions-matrix-number-of-islands.md)
 *   [Решебник. SurroundedRegions](ax075-solutions-matrix-surrounded-regions.md)
 
-#### ModifiedBinarySearch:
+##### ModifiedBinarySearch:
 *   [Решебник. FindMinimumInRotatedSortedArray](ax076-solutions-binary-search-min-rotated-array.md)
 *   [Решебник. Search2DMatrix](ax077-solutions-binary-search-2d-matrix.md)
 *   [Решебник. SearchInRotatedSortedArray](ax078-solutions-binary-search-rotated-array.md)
 
-#### MonotonicStack:
+##### MonotonicStack:
 *   [Решебник. LargestRectangleInHistogram](ax079-solutions-monotonic-stack-largest-rectangle-histogram.md)
 *   [Решебник. NextGreaterElement](ax080-solutions-monotonic-stack-next-greater-element.md)
 
-#### OverlappingIntervals:
+##### OverlappingIntervals:
 *   [Решебник. InsertInterval](ax081-solutions-intervals-insert-interval.md)
 *   [Решебник. MergeIntervals](ax082-solutions-intervals-merge-intervals.md)
 
-#### PrefixSum:
+##### PrefixSum:
 *   [Решебник. ContiguousArray](ax083-solutions-prefix-sum-contiguous-array.md)
 *   [Решебник. RangeSumQueryImmutable](ax084-solutions-prefix-sum-range-sum-query.md)
 *   [Решебник. SubarraySumEqualsK](ax085-solutions-prefix-sum-subarray-sum-equals-k.md)
 
-#### SlidingWindow:
+##### SlidingWindow:
 *   [Решебник. MaximumAverageSubarray](ax086-solutions-sliding-window-max-average-subarray.md)
 *   [Решебник. LongestSubstringWithoutRepeatingCharacters](ax087-solutions-sliding-window-longest-substring.md)
 *   [Решебник. MinimumWindowSubstring](ax088-solutions-sliding-window-min-window-substring.md)
 
-#### TopKElementsOrMinMaxHeap:
+##### TopKElementsOrMinMaxHeap:
 *   [Решебник. KthLargestElement](ax089-solutions-heap-kth-largest-element.md)
 *   [Решебник. TopKFrequentElements](ax090-solutions-heap-top-k-frequent.md)
 *   [Решебник. FindKPairsWithSmallestSums](ax091-solutions-heap-k-smallest-sums.md)
 
-#### TwoPointers:
+##### TwoPointers:
 *   [Решебник. ContainerWithMostWater](ax092-solutions-two-pointers-container-with-most-water.md)
 *   [Решебник. TwoSum2InputArrayIsSorted](ax093-solutions-two-pointers-two-sum.md)
 *   [Решебник. ThreeSum](ax094-solutions-two-pointers-3sum.md)
