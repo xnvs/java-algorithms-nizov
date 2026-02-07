@@ -697,8 +697,10 @@ x35. Алгоритм Дейкстры (Dijkstra)
 
 035.1. Алгоритмы Дейкстры (Dijkstra) : Практика
 ===
+
 файл: x01_ClassicDijkstra.java
 ---
+
 ```java
 package ...;
 
@@ -853,6 +855,7 @@ public class x01_ClassicDijkstra {
 
 файл: x02_ClassicBellmanFord.java
 ---
+
 ```java
 package ...;
 
