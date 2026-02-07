@@ -581,8 +581,10 @@ if (start >= lastEnd) {
 
 x029.1. Greedy (Жадные) Алгоритмы : Практика
 ===
+
 файл: x01_SimpleKnapsack.java
 ---
+
 ```java
 package ...;
 
@@ -703,8 +705,10 @@ public class x01_SimpleKnapsack {
 }
 
 ```
+
 файл: x02_MultidimGreedy.java
 ---
+
 ```java
 package ...;
 
