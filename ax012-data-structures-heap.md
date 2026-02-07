@@ -171,6 +171,7 @@ public List<Integer> findKLargest(int[] nums, int k) {
     return new ArrayList<>(minHeap);
 }
 ```
+
 Почему куча это эволюция механик и как разбирать такую эволюцию:
 ---
 
@@ -234,6 +235,8 @@ x012.1. Структура данных: Куча. Практика с эвол�
 для начала быстро вспомним типовое использование:
 
 файл x01_StandardJavaHeap.java
+---
+
 ```java
 package ...;
 
@@ -269,6 +272,8 @@ public class x01_StandardJavaHeap {
 ```
 
 файл x02_HeapEvolution.java
+---
+
 ```java
 package ...;
 
