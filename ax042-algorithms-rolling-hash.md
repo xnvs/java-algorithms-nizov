@@ -425,6 +425,7 @@ Rolling Hash - это алгоритм, который вычисляет хеш
     Проверка коллизий	    Побуквенное сравнение (опционально)
 
 ```
+
 Практика
 --------
 На практике рассмотрим поиск подстрок через RollingHash,
@@ -438,8 +439,10 @@ Rolling Hash - это алгоритм, который вычисляет хеш
 
 x042.1. Алгоритмы на базе Rolling Hash : практика
 ===
+
 файл x01_RollingHashSubstringClassic.java
 ---
+
 ```java
 package ...;
 
@@ -606,6 +609,7 @@ public class x01_RollingHashSubstringClassic {
 
 файл x02_RollingHashAndKMP.java
 ---
+
 ```java
 package ...;
 
@@ -875,6 +879,7 @@ public class x02_RollingHashAndKMP {
 
 файл x03_RollingHashPalindrome.java
 ---
+
 ```java
 package ...;
 
@@ -1238,6 +1243,7 @@ public class x03_RollingHashPalindrome {
 
 файл x04_PrefixSumOnPolynomial.java
 ---
+
 ```java
 package ...;
 
