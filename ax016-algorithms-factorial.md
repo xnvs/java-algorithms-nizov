@@ -213,6 +213,8 @@ x016.1. Примитивные алгоритмы: Факториал. Прак�
 ===
 
 файл: x01_FactorialRecursive.java
+---
+
 ```java
 package ...;
 
@@ -235,6 +237,8 @@ public class x01_FactorialRecursive {
 ```
 
 файл: x02_FactorialStack.java
+---
+
 ```java
 package ...;
 
