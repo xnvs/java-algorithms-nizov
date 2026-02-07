@@ -51,14 +51,14 @@
 Основные алгоритмы
 ---
 *   [BackTracking алгоритмы](ax023-algorithms-backtracking.md)
-
+  
 
 *   [Dynamic Programming алгоритмы. Общая картина](ax024-algorithms-dynamic-programming-overview.md)
 *   [Dynamic Programming: Сложение](ax025-algorithms-dp-recurrence-relations.md)
 *   [Dynamic Programming: Максимизация выборов](ax026-algorithms-dp-maximization-problems.md)
 *   [Dynamic Programming: СравнениеВыбор](ax027-algorithms-dp-comparison-decision-making.md)
 *   [Dynamic Programming: Накопление и Комбинаторика](ax028-algorithms-dp-counting-combinatorics.md)
-
+  
 
 *   [Greedy (Жадные) Алгоритмы](ax029-algorithms-greedy.md)
 *   [Стратегия "Разделяй и Властвуй" в алгоритмах](ax030-algorithms-divide-and-conquer.md)
@@ -68,7 +68,7 @@
 *   [Двоичный поиск (Binary Search) алгоритмы](ax034-algorithms-binary-search.md)
 *   [Алгоритм Дейкстры (Dijkstra)](ax035-algorithms-dijkstra.md)
 *   [Топологическая сортировка (Graph Topological Sort)](ax036-algorithms-topological-sort.md)
-
+  
 
 *   [UnionFind (Disjoint Set Union, DSU) алгоритмы](ax037-algorithms-union-find-dsu.md)
 *   [Алгоритмы на базе Префиксных деревьев (Trie)](ax038-algorithms-trie-prefix-trees.md)
