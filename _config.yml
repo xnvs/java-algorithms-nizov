@@ -2,3 +2,8 @@ theme: jekyll-theme-slate
 title: Алгоритмы на Java. Современный подход.
 author: Владимир Низов
 description: Практическое руководство по структурам данных и алгоритмам в современной Java-разработке.
+
+url: "https://xnvs.github.io"
+baseurl: "/java-algorithms-nizov"
+plugins:
+  - jekyll-sitemap
